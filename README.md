@@ -1,6 +1,6 @@
 # Hello, I'm Vidhyakshaya! 👋
 
-![Header Image](https://github.com/vidhyakshayakannan/vidhyakshayakannan/raw/main/header_image.png)
+![Header Image][github-header-image](https://github.com/vidhyakshayakannan/vidhyakshayakannan/assets/79592240/1f718ab9-cdc2-46ac-97fd-c5ec867710b2)
 
 ## About Me
 I'm a Computing and Data Science sophomore at Sai University with 1 year of industry experience in Docker, Kubernetes, Microservices, Java, Python, and Apache Kafka.
