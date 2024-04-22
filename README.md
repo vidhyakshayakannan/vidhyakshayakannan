@@ -1,6 +1,3 @@
-# Hello, I'm Vidhyakshaya! 👋
-
-![Header](./(https://github.com/vidhyakshayakannan/vidhyakshayakannan/assets/79592240/60e9aead-2571-4de4-8038-aef2dcb5ee77))
 ![github-header-image](https://github.com/vidhyakshayakannan/vidhyakshayakannan/assets/79592240/fc4eccd6-2c80-49f5-adfd-13184c37e2d3)
 
 ## About Me
