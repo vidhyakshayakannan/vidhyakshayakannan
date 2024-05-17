@@ -27,7 +27,7 @@ I'm interested in Machine Learning and pursuing a career in research.
 
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vidhyakshayakannan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/vidhyakshayakannan](https://www.linkedin.com/in/vidhyakshaya-kannan-998469214/))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vidhyakshaya.k-26@scds.saiuniversity.edu.in)
 
 Feel free to reach out if you'd like to connect or collaborate on projects related to software engineering or machine learning!
