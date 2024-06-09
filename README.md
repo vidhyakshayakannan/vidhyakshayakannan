@@ -1,5 +1,5 @@
 ## About Me
-I'm a Computing and Data Science sophomore at Sai University with 1 year of industry experience in Docker, Kubernetes, Microservices, Java, Python, and Apache Kafka.
+I'm a Computing and Data Science sophomore at Sai University with experience in Docker, Kubernetes, Microservices, Java, Python, and Apache Kafka.
 I'm interested in Machine Learning and pursuing a career in research.
 
 ## Skills
