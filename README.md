@@ -18,14 +18,6 @@ I'm interested in Machine Learning and pursuing a career in research.
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge)
 
 
-
-## Interests
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Software Development
-
-
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/vidhyakshayakannan](https://www.linkedin.com/in/vidhyakshaya-kannan-998469214/))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vidhyakshaya.k-26@scds.saiuniversity.edu.in)
