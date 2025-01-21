@@ -1,6 +1,8 @@
-## About Me
-I'm a Computing and Data Science junior at Sai University, Chennai. I intern at NetoAI, an AI for telecom startup and do NLP research with the Financial Services Innovation Lab at Georgia Tech. 
-I was one of the five students from India to be chosen to participate in the ! [Global Undergraduate Exchange Program] (https://www.worldlearning.org/program/global-undergraduate-exchange-program/), in which I was awarded a full-ride scholarship to pursue one semester of undergraduate study in Computer Science in the United States.
+# About Me  
+I'm a Computing and Data Science junior at Sai University, Chennai. I intern at NetoAI, an AI for telecom startup, and do NLP research with the Financial Services Innovation Lab at Georgia Tech.  
+
+I was one of the five students from India to be chosen to participate in the [Global Undergraduate Exchange Program](https://www.worldlearning.org/program/global-undergraduate-exchange-program/), in which I was awarded a full-ride scholarship to pursue one semester of undergraduate study in Computer Science in the United States.  
+
 
 ## Skills
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
